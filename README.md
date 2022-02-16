@@ -49,8 +49,8 @@ print('The cluster group for Applicant Income 9000 and loanamount 120',predicted
 ## Output:
 
 ### Insert your output
-![output](maths1.jpeg)
 ![output](maths2.jpeg)
+![output](maths1.jpeg)
 
 ## Result
 Thus the K-means clustering algorithm is implemented and predicted the cluster class using python program.
